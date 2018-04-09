@@ -7,4 +7,5 @@ This course covers following:
 3. How to write/run Hive programs and queries
 4. How to write/run Pig programs and queries
 5. How to write/run RDD and Dataframe programs and queries
+6. How to write/run HBase queries
 
