@@ -1,5 +1,5 @@
 # CSP595 Big Data Course at Illinois Institute of Technology 
-HDFS operations, Spark, Hive, Pig, RDD, Dataframes
+HDFS operations, Spark, Hive, Pig, RDD, Dataframes, Cassandra
 
 This course covers following:
 1. How to execute simple HDFS operations and create hadoop cluster on Microsoft Azure
@@ -8,4 +8,5 @@ This course covers following:
 4. How to write/run Pig programs and queries
 5. How to write/run RDD and Dataframe programs and queries
 6. How to write/run HBase queries
+7. How to write/run Cassandra queries
 
